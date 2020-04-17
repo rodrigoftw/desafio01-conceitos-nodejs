@@ -1,5 +1,4 @@
-# desafio02-conceitos-nodejs
-Desafio 02 - Conceitos NodeJS
+# Desafio 02 - Conceitos NodeJS
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
